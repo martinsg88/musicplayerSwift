@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3BA7AA5A-CF21-4696-9675-DA99DFD6F309</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1B6CD440-028A-11E4-AF7E-E333A437689A</key>
+		<string>https://ccv.backlog.jp/svn/FA_IOS</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1B6CD440-028A-11E4-AF7E-E333A437689A</key>
+		<string>FA_IOS</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1B6CD440-028A-11E4-AF7E-E333A437689A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1B6CD440-028A-11E4-AF7E-E333A437689A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FA_IOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
