@@ -7,6 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		51AE188119C874BA00FC45EA /* chewys-about-to-drop-the-bass-funny-star-wars-pictures.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 51AE187519C874BA00FC45EA /* chewys-about-to-drop-the-bass-funny-star-wars-pictures.jpg */; };
+		51AE188219C874BA00FC45EA /* gun.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 51AE187619C874BA00FC45EA /* gun.mp3 */; };
+		51AE188319C874BA00FC45EA /* off.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 51AE187719C874BA00FC45EA /* off.jpg */; };
+		51AE188419C874BA00FC45EA /* on.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 51AE187819C874BA00FC45EA /* on.jpg */; };
+		51AE188519C874BA00FC45EA /* snare.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 51AE187919C874BA00FC45EA /* snare.mp3 */; };
+		51AE188619C874BA00FC45EA /* start.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 51AE187A19C874BA00FC45EA /* start.mp3 */; };
+		51AE188719C874BA00FC45EA /* tumblr_naj3n71TcT1st5lhmo1_1280.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 51AE187B19C874BA00FC45EA /* tumblr_naj3n71TcT1st5lhmo1_1280.jpg */; };
+		51AE188819C874BA00FC45EA /* western_showdown.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 51AE187C19C874BA00FC45EA /* western_showdown.jpg */; };
+		51AE188919C874BA00FC45EA /* タイトル.png in Resources */ = {isa = PBXBuildFile; fileRef = 51AE187D19C874BA00FC45EA /* タイトル.png */; };
+		51AE188A19C874BA00FC45EA /* 止めた.png in Resources */ = {isa = PBXBuildFile; fileRef = 51AE187E19C874BA00FC45EA /* 止めた.png */; };
+		51AE188B19C874BA00FC45EA /* 消えてる.png in Resources */ = {isa = PBXBuildFile; fileRef = 51AE187F19C874BA00FC45EA /* 消えてる.png */; };
+		51AE188C19C874BA00FC45EA /* 点いた.png in Resources */ = {isa = PBXBuildFile; fileRef = 51AE188019C874BA00FC45EA /* 点いた.png */; };
 		51DE4C3219C2D2F400280559 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51DE4C3119C2D2F400280559 /* AppDelegate.swift */; };
 		51DE4C3419C2D2F400280559 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51DE4C3319C2D2F400280559 /* ViewController.swift */; };
 		51DE4C3919C2D2F400280559 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 51DE4C3819C2D2F400280559 /* Images.xcassets */; };
@@ -14,17 +26,6 @@
 		51DE4C4819C2D2F400280559 /* light_bulb_gameTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51DE4C4719C2D2F400280559 /* light_bulb_gameTests.swift */; };
 		51DE4C5219C2D48B00280559 /* LBViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51DE4C5119C2D48B00280559 /* LBViewController.swift */; };
 		51DE4C5419C2DCF400280559 /* LBView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 51DE4C5319C2DCF400280559 /* LBView.xib */; };
-		51DE4C6019C2DE8800280559 /* gun.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 51DE4C5519C2DE8800280559 /* gun.mp3 */; };
-		51DE4C6119C2DE8800280559 /* off.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 51DE4C5619C2DE8800280559 /* off.jpg */; };
-		51DE4C6219C2DE8800280559 /* on.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 51DE4C5719C2DE8800280559 /* on.jpg */; };
-		51DE4C6319C2DE8800280559 /* snare.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 51DE4C5819C2DE8800280559 /* snare.mp3 */; };
-		51DE4C6419C2DE8800280559 /* start.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 51DE4C5919C2DE8800280559 /* start.mp3 */; };
-		51DE4C6519C2DE8800280559 /* tumblr_naj3n71TcT1st5lhmo1_1280.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 51DE4C5A19C2DE8800280559 /* tumblr_naj3n71TcT1st5lhmo1_1280.jpg */; };
-		51DE4C6619C2DE8800280559 /* western_showdown.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 51DE4C5B19C2DE8800280559 /* western_showdown.jpg */; };
-		51DE4C6719C2DE8800280559 /* タイトル.png in Resources */ = {isa = PBXBuildFile; fileRef = 51DE4C5C19C2DE8800280559 /* タイトル.png */; };
-		51DE4C6819C2DE8800280559 /* 止めた.png in Resources */ = {isa = PBXBuildFile; fileRef = 51DE4C5D19C2DE8800280559 /* 止めた.png */; };
-		51DE4C6919C2DE8800280559 /* 消えてる.png in Resources */ = {isa = PBXBuildFile; fileRef = 51DE4C5E19C2DE8800280559 /* 消えてる.png */; };
-		51DE4C6A19C2DE8800280559 /* 点いた.png in Resources */ = {isa = PBXBuildFile; fileRef = 51DE4C5F19C2DE8800280559 /* 点いた.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,18 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		51AE187519C874BA00FC45EA /* chewys-about-to-drop-the-bass-funny-star-wars-pictures.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "chewys-about-to-drop-the-bass-funny-star-wars-pictures.jpg"; path = "../../FA_IOS/06 code/LB/LightBulb/LightBulb/chewys-about-to-drop-the-bass-funny-star-wars-pictures.jpg"; sourceTree = "<group>"; };
+		51AE187619C874BA00FC45EA /* gun.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = gun.mp3; path = "../../FA_IOS/06 code/LB/LightBulb/LightBulb/gun.mp3"; sourceTree = "<group>"; };
+		51AE187719C874BA00FC45EA /* off.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = off.jpg; path = "../../FA_IOS/06 code/LB/LightBulb/LightBulb/off.jpg"; sourceTree = "<group>"; };
+		51AE187819C874BA00FC45EA /* on.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = on.jpg; path = "../../FA_IOS/06 code/LB/LightBulb/LightBulb/on.jpg"; sourceTree = "<group>"; };
+		51AE187919C874BA00FC45EA /* snare.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = snare.mp3; path = "../../FA_IOS/06 code/LB/LightBulb/LightBulb/snare.mp3"; sourceTree = "<group>"; };
+		51AE187A19C874BA00FC45EA /* start.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = start.mp3; path = "../../FA_IOS/06 code/LB/LightBulb/LightBulb/start.mp3"; sourceTree = "<group>"; };
+		51AE187B19C874BA00FC45EA /* tumblr_naj3n71TcT1st5lhmo1_1280.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = tumblr_naj3n71TcT1st5lhmo1_1280.jpg; path = "../../FA_IOS/06 code/LB/LightBulb/LightBulb/tumblr_naj3n71TcT1st5lhmo1_1280.jpg"; sourceTree = "<group>"; };
+		51AE187C19C874BA00FC45EA /* western_showdown.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = western_showdown.jpg; path = "../../FA_IOS/06 code/LB/LightBulb/LightBulb/western_showdown.jpg"; sourceTree = "<group>"; };
+		51AE187D19C874BA00FC45EA /* タイトル.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "タイトル.png"; path = "../../FA_IOS/06 code/LB/LightBulb/LightBulb/タイトル.png"; sourceTree = "<group>"; };
+		51AE187E19C874BA00FC45EA /* 止めた.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "止めた.png"; path = "../../FA_IOS/06 code/LB/LightBulb/LightBulb/止めた.png"; sourceTree = "<group>"; };
+		51AE187F19C874BA00FC45EA /* 消えてる.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "消えてる.png"; path = "../../FA_IOS/06 code/LB/LightBulb/LightBulb/消えてる.png"; sourceTree = "<group>"; };
+		51AE188019C874BA00FC45EA /* 点いた.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "点いた.png"; path = "../../FA_IOS/06 code/LB/LightBulb/LightBulb/点いた.png"; sourceTree = "<group>"; };
 		51DE4C2C19C2D2F400280559 /* light bulb game.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "light bulb game.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		51DE4C3019C2D2F400280559 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		51DE4C3119C2D2F400280559 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -49,17 +62,6 @@
 		51DE4C4719C2D2F400280559 /* light_bulb_gameTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = light_bulb_gameTests.swift; sourceTree = "<group>"; };
 		51DE4C5119C2D48B00280559 /* LBViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LBViewController.swift; sourceTree = "<group>"; };
 		51DE4C5319C2DCF400280559 /* LBView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LBView.xib; sourceTree = "<group>"; };
-		51DE4C5519C2DE8800280559 /* gun.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = gun.mp3; path = "../../FA_IOS/06 code/FA_EDUCATION_IOS-andrew/gun.mp3"; sourceTree = "<group>"; };
-		51DE4C5619C2DE8800280559 /* off.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = off.jpg; path = "../../FA_IOS/06 code/FA_EDUCATION_IOS-andrew/off.jpg"; sourceTree = "<group>"; };
-		51DE4C5719C2DE8800280559 /* on.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = on.jpg; path = "../../FA_IOS/06 code/FA_EDUCATION_IOS-andrew/on.jpg"; sourceTree = "<group>"; };
-		51DE4C5819C2DE8800280559 /* snare.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = snare.mp3; path = "../../FA_IOS/06 code/FA_EDUCATION_IOS-andrew/snare.mp3"; sourceTree = "<group>"; };
-		51DE4C5919C2DE8800280559 /* start.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = start.mp3; path = "../../FA_IOS/06 code/FA_EDUCATION_IOS-andrew/start.mp3"; sourceTree = "<group>"; };
-		51DE4C5A19C2DE8800280559 /* tumblr_naj3n71TcT1st5lhmo1_1280.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = tumblr_naj3n71TcT1st5lhmo1_1280.jpg; path = "../../FA_IOS/06 code/FA_EDUCATION_IOS-andrew/tumblr_naj3n71TcT1st5lhmo1_1280.jpg"; sourceTree = "<group>"; };
-		51DE4C5B19C2DE8800280559 /* western_showdown.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = western_showdown.jpg; path = "../../FA_IOS/06 code/FA_EDUCATION_IOS-andrew/western_showdown.jpg"; sourceTree = "<group>"; };
-		51DE4C5C19C2DE8800280559 /* タイトル.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "タイトル.png"; path = "../../FA_IOS/06 code/FA_EDUCATION_IOS-andrew/タイトル.png"; sourceTree = "<group>"; };
-		51DE4C5D19C2DE8800280559 /* 止めた.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "止めた.png"; path = "../../FA_IOS/06 code/FA_EDUCATION_IOS-andrew/止めた.png"; sourceTree = "<group>"; };
-		51DE4C5E19C2DE8800280559 /* 消えてる.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "消えてる.png"; path = "../../FA_IOS/06 code/FA_EDUCATION_IOS-andrew/消えてる.png"; sourceTree = "<group>"; };
-		51DE4C5F19C2DE8800280559 /* 点いた.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "点いた.png"; path = "../../FA_IOS/06 code/FA_EDUCATION_IOS-andrew/点いた.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,17 +117,18 @@
 		51DE4C2F19C2D2F400280559 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				51DE4C5519C2DE8800280559 /* gun.mp3 */,
-				51DE4C5619C2DE8800280559 /* off.jpg */,
-				51DE4C5719C2DE8800280559 /* on.jpg */,
-				51DE4C5819C2DE8800280559 /* snare.mp3 */,
-				51DE4C5919C2DE8800280559 /* start.mp3 */,
-				51DE4C5A19C2DE8800280559 /* tumblr_naj3n71TcT1st5lhmo1_1280.jpg */,
-				51DE4C5B19C2DE8800280559 /* western_showdown.jpg */,
-				51DE4C5C19C2DE8800280559 /* タイトル.png */,
-				51DE4C5D19C2DE8800280559 /* 止めた.png */,
-				51DE4C5E19C2DE8800280559 /* 消えてる.png */,
-				51DE4C5F19C2DE8800280559 /* 点いた.png */,
+				51AE187519C874BA00FC45EA /* chewys-about-to-drop-the-bass-funny-star-wars-pictures.jpg */,
+				51AE187619C874BA00FC45EA /* gun.mp3 */,
+				51AE187719C874BA00FC45EA /* off.jpg */,
+				51AE187819C874BA00FC45EA /* on.jpg */,
+				51AE187919C874BA00FC45EA /* snare.mp3 */,
+				51AE187A19C874BA00FC45EA /* start.mp3 */,
+				51AE187B19C874BA00FC45EA /* tumblr_naj3n71TcT1st5lhmo1_1280.jpg */,
+				51AE187C19C874BA00FC45EA /* western_showdown.jpg */,
+				51AE187D19C874BA00FC45EA /* タイトル.png */,
+				51AE187E19C874BA00FC45EA /* 止めた.png */,
+				51AE187F19C874BA00FC45EA /* 消えてる.png */,
+				51AE188019C874BA00FC45EA /* 点いた.png */,
 				51DE4C3019C2D2F400280559 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -228,20 +231,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				51DE4C6819C2DE8800280559 /* 止めた.png in Resources */,
+				51AE188919C874BA00FC45EA /* タイトル.png in Resources */,
+				51AE188819C874BA00FC45EA /* western_showdown.jpg in Resources */,
 				51DE4C3C19C2D2F400280559 /* LaunchScreen.xib in Resources */,
-				51DE4C6119C2DE8800280559 /* off.jpg in Resources */,
+				51AE188B19C874BA00FC45EA /* 消えてる.png in Resources */,
+				51AE188319C874BA00FC45EA /* off.jpg in Resources */,
 				51DE4C3919C2D2F400280559 /* Images.xcassets in Resources */,
-				51DE4C6619C2DE8800280559 /* western_showdown.jpg in Resources */,
-				51DE4C6719C2DE8800280559 /* タイトル.png in Resources */,
-				51DE4C6519C2DE8800280559 /* tumblr_naj3n71TcT1st5lhmo1_1280.jpg in Resources */,
-				51DE4C6319C2DE8800280559 /* snare.mp3 in Resources */,
-				51DE4C6A19C2DE8800280559 /* 点いた.png in Resources */,
+				51AE188519C874BA00FC45EA /* snare.mp3 in Resources */,
+				51AE188A19C874BA00FC45EA /* 止めた.png in Resources */,
+				51AE188C19C874BA00FC45EA /* 点いた.png in Resources */,
+				51AE188419C874BA00FC45EA /* on.jpg in Resources */,
 				51DE4C5419C2DCF400280559 /* LBView.xib in Resources */,
-				51DE4C6919C2DE8800280559 /* 消えてる.png in Resources */,
-				51DE4C6419C2DE8800280559 /* start.mp3 in Resources */,
-				51DE4C6219C2DE8800280559 /* on.jpg in Resources */,
-				51DE4C6019C2DE8800280559 /* gun.mp3 in Resources */,
+				51AE188119C874BA00FC45EA /* chewys-about-to-drop-the-bass-funny-star-wars-pictures.jpg in Resources */,
+				51AE188619C874BA00FC45EA /* start.mp3 in Resources */,
+				51AE188719C874BA00FC45EA /* tumblr_naj3n71TcT1st5lhmo1_1280.jpg in Resources */,
+				51AE188219C874BA00FC45EA /* gun.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -445,6 +449,7 @@
 				51DE4C4D19C2D2F400280559 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		51DE4C4E19C2D2F400280559 /* Build configuration list for PBXNativeTarget "light bulb gameTests" */ = {
 			isa = XCConfigurationList;
@@ -453,6 +458,7 @@
 				51DE4C5019C2D2F400280559 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
