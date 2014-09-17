@@ -27,6 +27,7 @@
 		51DE4C4819C2D2F400280559 /* light_bulb_gameTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51DE4C4719C2D2F400280559 /* light_bulb_gameTests.swift */; };
 		51DE4C5219C2D48B00280559 /* LBViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51DE4C5119C2D48B00280559 /* LBViewController.swift */; };
 		51DE4C5419C2DCF400280559 /* LBView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 51DE4C5319C2DCF400280559 /* LBView.xib */; };
+		51E6E64619C9C6B400F8112B /* MusicPlayerView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 51E6E64519C9C6B400F8112B /* MusicPlayerView.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -64,6 +65,7 @@
 		51DE4C4719C2D2F400280559 /* light_bulb_gameTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = light_bulb_gameTests.swift; sourceTree = "<group>"; };
 		51DE4C5119C2D48B00280559 /* LBViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LBViewController.swift; sourceTree = "<group>"; };
 		51DE4C5319C2DCF400280559 /* LBView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LBView.xib; sourceTree = "<group>"; };
+		51E6E64519C9C6B400F8112B /* MusicPlayerView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MusicPlayerView.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 			isa = PBXGroup;
 			children = (
 				519FEA2719C90CE5001B8740 /* LBMusicPlayerViewController.swift */,
+				51E6E64519C9C6B400F8112B /* MusicPlayerView.xib */,
 			);
 			name = MusicPlayerFiles;
 			sourceTree = "<group>";
@@ -254,6 +257,7 @@
 				51AE188819C874BA00FC45EA /* western_showdown.jpg in Resources */,
 				51DE4C3C19C2D2F400280559 /* LaunchScreen.xib in Resources */,
 				51AE188B19C874BA00FC45EA /* 消えてる.png in Resources */,
+				51E6E64619C9C6B400F8112B /* MusicPlayerView.xib in Resources */,
 				51AE188319C874BA00FC45EA /* off.jpg in Resources */,
 				51DE4C3919C2D2F400280559 /* Images.xcassets in Resources */,
 				51AE188519C874BA00FC45EA /* snare.mp3 in Resources */,

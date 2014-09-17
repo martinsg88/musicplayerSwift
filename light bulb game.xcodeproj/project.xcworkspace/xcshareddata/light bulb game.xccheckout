@@ -14,8 +14,6 @@
 		<string>https://ccv.backlog.jp/svn/FA_IOS</string>
 		<key>1B6CD440-028A-11E4-AF7E-E333A437689A++2199</key>
 		<string>https://ccv.backlog.jp/svn/FA_IOS/https://github.com/martinsg88/musicplayerObj-c.git</string>
-		<key>61130D5EC8786DBAE323E983D4C75BE06A84D8EC</key>
-		<string>https://ccv.backlog.jp/svn/FA_IOS</string>
 		<key>E9F5BD5A43BD797D78F5B76ED24B59DCF5894EB8</key>
 		<string>https://github.com/martinsg88/musicplayerSwift.git</string>
 	</dict>
@@ -26,8 +24,6 @@
 		<key>1B6CD440-028A-11E4-AF7E-E333A437689A</key>
 		<string>../../../FA_IOS</string>
 		<key>1B6CD440-028A-11E4-AF7E-E333A437689A++2199</key>
-		<string>../../../FA_IOS/06%20code/LB/LightBulb</string>
-		<key>61130D5EC8786DBAE323E983D4C75BE06A84D8EC</key>
 		<string>../../../FA_IOS/06%20code/LB/LightBulb</string>
 		<key>E9F5BD5A43BD797D78F5B76ED24B59DCF5894EB8</key>
 		<string>../..</string>
@@ -65,7 +61,7 @@
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>61130D5EC8786DBAE323E983D4C75BE06A84D8EC</string>
+			<string>1B6CD440-028A-11E4-AF7E-E333A437689A++2199</string>
 			<key>IDESourceControlWCCName</key>
 			<string>LightBulb</string>
 		</dict>
