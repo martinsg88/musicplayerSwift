@@ -56,7 +56,8 @@ class LBViewController: UIViewController, AVAudioPlayerDelegate {
     }
     
     @IBAction func didStartMusicTap(sender: AnyObject){
-        
+        let musicView = LBMusicPlayerViewController(nibName: "MusicPlayerView", bundle: nil)
+        self.navigationController?.pushViewController(musicView, animated: true)
     }
     
     func waitTimerDidTick(timer:NSTimer){

@@ -51,15 +51,15 @@ class LBMusicPlayerViewController : UIViewController, AVAudioPlayerDelegate{
     }
     
     @IBAction func didEffectButtonTap(sender: AnyObject){
-        
+        self.playEffectButtonTap()
     }
     
     @IBAction func didMusicTwoButtonTap(sender: AnyObject){
-        
+        self.playMusicTwoButtonTap()
     }
     
     @IBAction func didMusicOneButtonTap(sender: AnyObject){
-        
+        self.playMusicTwoButtonTap()
     }
     
     
