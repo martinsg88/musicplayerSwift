@@ -63,17 +63,17 @@
 		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.subversion</string>
+			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>1B6CD440-028A-11E4-AF7E-E333A437689A++2199</string>
+			<string>61130D5EC8786DBAE323E983D4C75BE06A84D8EC</string>
 			<key>IDESourceControlWCCName</key>
 			<string>LightBulb</string>
 		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.git</string>
+			<string>public.vcs.subversion</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>61130D5EC8786DBAE323E983D4C75BE06A84D8EC</string>
+			<string>1B6CD440-028A-11E4-AF7E-E333A437689A++2199</string>
 			<key>IDESourceControlWCCName</key>
 			<string>LightBulb</string>
 		</dict>
