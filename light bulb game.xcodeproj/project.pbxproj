@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		519FEA2819C90CE5001B8740 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = 519FEA2719C90CE5001B8740 /* File.swift */; };
 		51AE188119C874BA00FC45EA /* chewys-about-to-drop-the-bass-funny-star-wars-pictures.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 51AE187519C874BA00FC45EA /* chewys-about-to-drop-the-bass-funny-star-wars-pictures.jpg */; };
 		51AE188219C874BA00FC45EA /* gun.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 51AE187619C874BA00FC45EA /* gun.mp3 */; };
 		51AE188319C874BA00FC45EA /* off.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 51AE187719C874BA00FC45EA /* off.jpg */; };
@@ -39,6 +40,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		519FEA2719C90CE5001B8740 /* File.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
 		51AE187519C874BA00FC45EA /* chewys-about-to-drop-the-bass-funny-star-wars-pictures.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "chewys-about-to-drop-the-bass-funny-star-wars-pictures.jpg"; path = "../../FA_IOS/06 code/LB/LightBulb/LightBulb/chewys-about-to-drop-the-bass-funny-star-wars-pictures.jpg"; sourceTree = "<group>"; };
 		51AE187619C874BA00FC45EA /* gun.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = gun.mp3; path = "../../FA_IOS/06 code/LB/LightBulb/LightBulb/gun.mp3"; sourceTree = "<group>"; };
 		51AE187719C874BA00FC45EA /* off.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = off.jpg; path = "../../FA_IOS/06 code/LB/LightBulb/LightBulb/off.jpg"; sourceTree = "<group>"; };
@@ -82,6 +84,26 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		519FEA2519C90CB1001B8740 /* Common */ = {
+			isa = PBXGroup;
+			children = (
+				51DE4C5119C2D48B00280559 /* LBViewController.swift */,
+				51DE4C5319C2DCF400280559 /* LBView.xib */,
+				51DE4C3319C2D2F400280559 /* ViewController.swift */,
+				51DE4C3A19C2D2F400280559 /* LaunchScreen.xib */,
+				51DE4C3119C2D2F400280559 /* AppDelegate.swift */,
+			);
+			name = Common;
+			sourceTree = "<group>";
+		};
+		519FEA2619C90CD4001B8740 /* MusicPlayerFiles */ = {
+			isa = PBXGroup;
+			children = (
+				519FEA2719C90CE5001B8740 /* File.swift */,
+			);
+			name = MusicPlayerFiles;
+			sourceTree = "<group>";
+		};
 		51DE4C2319C2D2F400280559 = {
 			isa = PBXGroup;
 			children = (
@@ -103,12 +125,8 @@
 		51DE4C2E19C2D2F400280559 /* light bulb game */ = {
 			isa = PBXGroup;
 			children = (
-				51DE4C3119C2D2F400280559 /* AppDelegate.swift */,
-				51DE4C5119C2D48B00280559 /* LBViewController.swift */,
-				51DE4C5319C2DCF400280559 /* LBView.xib */,
-				51DE4C3319C2D2F400280559 /* ViewController.swift */,
-				51DE4C3819C2D2F400280559 /* Images.xcassets */,
-				51DE4C3A19C2D2F400280559 /* LaunchScreen.xib */,
+				519FEA2619C90CD4001B8740 /* MusicPlayerFiles */,
+				519FEA2519C90CB1001B8740 /* Common */,
 				51DE4C2F19C2D2F400280559 /* Supporting Files */,
 			);
 			path = "light bulb game";
@@ -117,6 +135,7 @@
 		51DE4C2F19C2D2F400280559 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				51DE4C3819C2D2F400280559 /* Images.xcassets */,
 				51AE187519C874BA00FC45EA /* chewys-about-to-drop-the-bass-funny-star-wars-pictures.jpg */,
 				51AE187619C874BA00FC45EA /* gun.mp3 */,
 				51AE187719C874BA00FC45EA /* off.jpg */,
@@ -264,6 +283,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				51DE4C3419C2D2F400280559 /* ViewController.swift in Sources */,
+				519FEA2819C90CE5001B8740 /* File.swift in Sources */,
 				51DE4C3219C2D2F400280559 /* AppDelegate.swift in Sources */,
 				51DE4C5219C2D48B00280559 /* LBViewController.swift in Sources */,
 			);
